@@ -8,11 +8,11 @@ A full-stack flight booking application built with the MERN stack.
 
 **_Team Size_ : 4**
 
-**_Team Leader_ : Mohammad Abdul Gafoor**
+**_Team Leader_ : [Mohammad Abdul Gafoor](https://github.com/Gafoor2005)** 
 
-**_Team member_ : Pamarthi Lakshmi Durga**
+**_Team member_ : [Pamarthi Lakshmi Durga](https://github.com/PamarthiLakshmi-Durga20)**
 
-**_Team member_ : Shaik Shahina**
+**_Team member_ : [Shaik Shahina](https://github.com/shaikshahina-1)**
 
 **_Team member_ : Sanaka Venkata Jahnavi**
 
