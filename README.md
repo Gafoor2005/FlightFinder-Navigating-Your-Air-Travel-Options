@@ -14,7 +14,7 @@ A full-stack flight booking application built with the MERN stack.
 
 **_Team member_ : [Shaik Shahina](https://github.com/shaikshahina-1)**
 
-**_Team member_ : Sanaka Venkata Jahnavi**
+**_Team member_ : [Sanaka Venkata Jahnavi](https://github.com/sanakajahnvi)**
 
 ## Features
 
