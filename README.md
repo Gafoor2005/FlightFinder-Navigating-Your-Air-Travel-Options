@@ -1,6 +1,20 @@
-# Flight Booking App
+# FlightFinder: Navigating Your Air Travel Options
 
 A full-stack flight booking application built with the MERN stack.
+
+## Team Details
+
+**_Team ID_ : LTVIP2026TMIDS24618**
+
+**_Team Size_ : 4**
+
+**_Team Leader_ : Mohammad Abdul Gafoor**
+
+**_Team member_ : Pamarthi Lakshmi Durga**
+
+**_Team member_ : Shaik Shahina**
+
+**_Team member_ : Sanaka Venkata Jahnavi**
 
 ## Features
 
